@@ -2,7 +2,7 @@
 
 > 🚀 **Click below to watch the complete code explanation of DFA, NFA & NFA → DFA Conversion:**
 >
-> 👉 **[▶️ CODE EXPLANATION VIDEO](https://drive.google.com/file/d/1BLhZnFGwjtm9rcb6yugCQysJ2SHefvbT/view?usp=sharing)**
+> 👉 **[▶️ CODE EXPLANATION VIDEO]()**
 
 ---
 
